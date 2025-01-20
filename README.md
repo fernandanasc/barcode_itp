@@ -32,8 +32,14 @@ Código de barras gerado: barcode.pbm
 Execute o seguinte comando para compilar os programas:
 
 ```bash
-make´´
+make
 
 ./generate (7 digitos)
 
-./extract barcode.pbm
+./extract barcode.pbm 
+```
+
+
+Disciplina: Introdução às Técnicas de Programação - 2024.2
+Discente: Fernanda Vitoria Silva do Nascimento
+20 de janeiro de 2025
