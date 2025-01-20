@@ -39,7 +39,9 @@ make
 ./extract barcode.pbm 
 ```
 
-
+### Autoria
 Disciplina: Introdução às Técnicas de Programação - 2024.2
+
 Discente: Fernanda Vitoria Silva do Nascimento
+
 20 de janeiro de 2025
